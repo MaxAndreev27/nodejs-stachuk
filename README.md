@@ -11,13 +11,39 @@ The code is organized logically, corresponding to the key sections, architectura
 ```text
 .
 ├── README.md
-├── 01-node-architecture/            # Deep dive: Event Loop, Thread Pool, and Libuv
-├── 02-built-in-modules/            # Core modules: path, fs, http, events
-├── 03-asynchronous-programming/     # Callbacks, Promises, and Async/Await syntax
-├── 04-working-with-data/           # JSON processing, reading/writing files
-├── 05-streams/                     # Handling large data volumes efficiently with Streams
-├── 06-npm-ecosystem/               # package.json, package-lock.json, semantic versioning, and NPM scripts
-├── 07-express-framework/           # Creating HTTP servers and routing with Express.js
-├── 08-middleware/                  # Custom middleware for logging and centralized error handling
-└── 09-final-applications/          # Complete back-end projects and API request/response handling
+├── 01-event-loop-events/
+├── 02-blocking-event-loop/
+├── 03-commonjs-modules/
+├── 04-es6-modules/
+├── 05-fs/
+├── 06-events/
+├── 07-path/
+├── 08-http/
+├── 09-streams/
+├── 10-npm/
+├── 11-env/
+├── 12-express/
+└── ...
 ```
+
+## 🤝 Community Standards
+
+This project follows standard GitHub community expectations to keep collaboration respectful, transparent, and safe.
+
+- [Code of Conduct](CODE_OF_CONDUCT.md) — expected behavior and enforcement guidelines
+- [Contributing Guide](CONTRIBUTING.md) — how to propose changes and submit pull requests
+- [Security Policy](SECURITY.md) — how to report vulnerabilities responsibly
+
+## 🧩 Contributing
+
+Contributions are welcome if they improve examples, fix mistakes, or add useful Node.js practice material.
+
+Please read the contribution guide before opening a PR or issue.
+
+## 🔒 Security
+
+If you discover a security issue, please report it privately using the security policy rather than creating a public issue.
+
+## 📌 Notes
+
+This repository is primarily an educational project focused on learning and practicing backend development with Node.js and Express.
