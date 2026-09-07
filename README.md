@@ -1,5 +1,7 @@
 # Ultimate Node.js Course by Bogdan Stashchuk - Coding Practices & Projects
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 This repository contains code examples, hands-on exercises, mini-projects, and notes completed during the **"Ultimate Node.js Course" (Полный Курс по Node.js)** by Bogdan Stashchuk.
 
 The goal of this repository is to track my progress from understanding the deep internal architecture of Node.js to building real-world, scalable web applications and REST APIs.
@@ -33,6 +35,15 @@ This project follows standard GitHub community expectations to keep collaboratio
 - [Code of Conduct](CODE_OF_CONDUCT.md) — expected behavior and enforcement guidelines
 - [Contributing Guide](CONTRIBUTING.md) — how to propose changes and submit pull requests
 - [Security Policy](SECURITY.md) — how to report vulnerabilities responsibly
+- [License](LICENSE) — open-source licensing terms
+
+## 🐞 Issue Templates
+
+Use the appropriate issue template depending on the type of report:
+
+- [Bug report](.github/ISSUE_TEMPLATE/bug_report.md)
+- [Feature request](.github/ISSUE_TEMPLATE/feature_request.md)
+- [Question](.github/ISSUE_TEMPLATE/question.md)
 
 ## 🧩 Contributing
 
